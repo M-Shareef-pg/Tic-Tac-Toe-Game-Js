@@ -1,13 +1,14 @@
 *{
     margin: 0;
     padding: 0;
-    
+    border: none;
 }
 
 body{
     background-color: #FF206E;
     color: #FBFF12;
     font-family: 'Times New Roman', Times, serif;
+    
 }
 
 #gParent{
@@ -48,15 +49,20 @@ body{
     border-radius: 2rem;
     font-size: 3rem;
     background-color: #41EAD4;
+    border: none;
+    color: black;
 }
 
 .reset{
-    height: 15%;
+    height: 10%;
     width: 15%;
     border-radius: 2rem;
-    font-size: 1.5rem;
-    background-color: #41EAD4;
-    font-weight: bold;
+    font-size: 1.3rem;
+    background-color: black;
+    color: #FBFF12;
+    font-weight: 400;
+    margin-top: 3%;
+    margin-right: 5%;
 }
 
 /* Css done */
